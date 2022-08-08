@@ -1,4 +1,4 @@
-Login e Logout - Git
+Minha Primeira Aplicação/Sistema PHP - Git
 ==============================
 
 ## User Story #1

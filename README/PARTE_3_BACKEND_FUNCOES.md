@@ -1,4 +1,4 @@
-Login e Logout - Funções
+Minha Primeira Aplicação/Sistema PHP - Funções
 ==============================
 
 O objetivo de criar `funções` é para `facilitar/automatizar/delegar` um determinado processo, com isso fazemos um reaproveitamento de código e nos tornamos muito mais produtivos.
