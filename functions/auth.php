@@ -8,3 +8,8 @@ function is_authenticated()
         return true;
     }
 }
+
+if (empty($_POST['username']) || empty($_POST['password'])) {
+    set_flash_message("Todos os campos são de preenchimento obrigatório!");
+    url_redirect(['route' => 'login']);
+}
