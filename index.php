@@ -4,6 +4,7 @@ session_start();
 require_once 'config.php';
 require_once 'functions/url.php';
 require_once 'functions/message.php';
+require_once 'functions/auth.php';
 
 if (empty($_GET['route'])) {
     $page = 'login';
